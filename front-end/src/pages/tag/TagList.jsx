@@ -8,7 +8,7 @@ import DeleteForeverIcon from '@mui/icons-material/DeleteForever'
 import { IconButton } from '@mui/material';
 import Backdrop from '@mui/material/Backdrop'
 import CircularProgress from '@mui/material/CircularProgress'
-import ConfirmDialog from '../../components/ui/ComfirmDialog';
+import ConfirmDialog from '../../components/ui/ConfirmDialog';
 import Notification from '../../components/ui/Notification'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
